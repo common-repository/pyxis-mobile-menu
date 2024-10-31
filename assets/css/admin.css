@@ -1,0 +1,38 @@
+.option-pyxis_plugin_options .cmb-type-colorpicker .cmb-td {
+  padding-top: 20px;
+}
+.option-pyxis_plugin_options .cmb-type-colorpicker .wp-color-result.button {
+  margin-bottom: 0;
+}
+.option-pyxis_plugin_options .cmb-type-colorpicker .wp-picker-clear.button.button-small {
+  min-height: 30px;
+}
+.option-pyxis_plugin_options .cmb-type-checkbox .cmb-td {
+  padding-top: 22px;
+}
+.option-pyxis_plugin_options .cmb2-id-intro .cmb-th {
+  display: none !important;
+}
+.option-pyxis_plugin_options .cmb2-id-intro .cmb-td {
+  padding-left: 0;
+}
+.option-pyxis_plugin_options .cmb2-id-custom-shortcode .cmb-td {
+  padding-top: 25px;
+}
+.option-pyxis_plugin_options .cmb2-id-danger-zone {
+  border: 1px solid #cb2431 !important;
+}
+.option-pyxis_plugin_options .cmb2-id-danger-zone .cmb-th {
+  padding: 15px 0 15px 10px;
+}
+.option-pyxis_plugin_options .cmb2-id-danger-zone .cmb-td {
+  padding: 15px 10px;
+}
+.option-pyxis_plugin_options .cmb2-id-danger-zone .cmb-td .button-warning {
+  margin-bottom: 5px;
+  border-color: #cb2431;
+  background-color: #cb2431;
+  color: #ffffff;
+}
+
+/*# sourceMappingURL=admin.css.map */
